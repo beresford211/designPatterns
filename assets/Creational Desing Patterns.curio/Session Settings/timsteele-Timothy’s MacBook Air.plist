@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bottombar Visible</key>
+	<false/>
+	<key>EEFC053B-7D3F-4807-84AF-D6205EFB6FB4</key>
+	<dict>
+		<key>Visible Rect</key>
+		<string>{{0, 117}, {948, 726}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>Expanded Ideaspaces For Section F988BCA0-DE26-4A49-954D-C05BDDB7B7E8</key>
+	<array/>
+	<key>Expanded Sections</key>
+	<array/>
+	<key>Last Viewed Ideaspaces For Section F988BCA0-DE26-4A49-954D-C05BDDB7B7E8</key>
+	<array>
+		<string>EEFC053B-7D3F-4807-84AF-D6205EFB6FB4</string>
+	</array>
+	<key>Last Viewed Section</key>
+	<array>
+		<string>F988BCA0-DE26-4A49-954D-C05BDDB7B7E8</string>
+	</array>
+	<key>Normal Window Layout</key>
+	<string>{{0, 53}, {1440, 824}}</string>
+	<key>Organizer Visible</key>
+	<true/>
+	<key>Organizer Width</key>
+	<integer>170</integer>
+	<key>Primary Asset UUID Last Viewed</key>
+	<string>EEFC053B-7D3F-4807-84AF-D6205EFB6FB4</string>
+	<key>Scroll Position For Section F988BCA0-DE26-4A49-954D-C05BDDB7B7E8</key>
+	<string>{0, 0}</string>
+	<key>Secondary View Vertical</key>
+	<true/>
+	<key>Secondary View Visible</key>
+	<false/>
+	<key>Sections Visible</key>
+	<false/>
+	<key>Toolbar Visible</key>
+	<true/>
+</dict>
+</plist>
